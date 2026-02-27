@@ -18,5 +18,7 @@
 
 
 # 5.6 Panel 3 — Latence p95
+# 5.7 Sauvegarder le dashboard
 
 
+<img width="1869" height="933" alt="Capture d’écran du 2026-02-27 21-56-14" src="https://github.com/user-attachments/assets/dcc7d300-485f-452d-9402-3e56b9017b8c" />
